@@ -1,0 +1,19 @@
+id: ID6D48992
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:14.208702
+last_modified: 2023-01-04 11:31:14.208708
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  71D4:
+    title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+      Rinpoche
+    base_file: 71D4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
